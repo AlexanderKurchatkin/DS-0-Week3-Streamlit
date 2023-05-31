@@ -1,2 +1,2 @@
-# DS-0-Week3-Streamlit
+# Streamlit
 Homework streamlit
