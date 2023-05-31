@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import streamlit as st
 import seaborn as sns
 
-
-path = '/home/alexander/Elbrus/datasets/tips.csv'
+path = 'https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv'
+#path = '/home/alexander/Elbrus/datasets/tips.csv'
 tips = pd.read_csv(path)
 
 st.sidebar.title('О приложении')
